@@ -2,7 +2,6 @@
 """
 Immutable = (int, str, float, bool, tuple)
 Mutable = (list, set, dictionary)
-
 """
 #----Immutable----#
 
